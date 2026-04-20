@@ -5,3 +5,4 @@
 - [2026-04-06T22:26:43Z] chore: remove deprecated API calls
 - [2026-04-20T18:50:38Z] fix: resolve edge case in input validation
 - [2026-04-20T19:07:42Z] perf: optimize loop for better performance
+- [2026-04-20T11:35:16Z] fix: handle null pointer exception
